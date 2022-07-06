@@ -1,0 +1,7 @@
+{
+    "/resources/views/app.blade.php": "/resources/views/app.blade.php",
+    "/index.php": "/index.php",
+    "/manifest.json": "/manifest.json",
+    "/service-worker.js": "/service-worker.js",
+    "/workbox-85cf717f.js": "/workbox-85cf717f.js"
+}

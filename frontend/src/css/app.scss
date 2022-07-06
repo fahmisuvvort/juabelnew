@@ -1,0 +1,16 @@
+// @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+// body .front{
+//   font-family: 'Poppins', sans-serif;
+//   color: rgb(44, 44, 44);
+// }
+// .sans {
+//   font-family: 'roboto', sans-serif;
+// }
+$default   : #0598c0;
+:root {
+  --page-width: 600px;
+  --blue-light: #c0eec6;
+  --default-theme: $default;
+}
+@import 'main';
+@import 'responsive';

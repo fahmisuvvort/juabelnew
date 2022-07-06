@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run serve",
+        "prod": "npm run build",
+        "serve": "cd frontend && quasar dev",
+        "build": "cd frontend && quasar build -m pwa && cd .. && npm run development",
+        "start": "npm install && npm run install-frontend",
+        "install-frontend": "cd frontend && npm install",
+        "development": "mix"
+    },
+    "devDependencies": {
+        "laravel-mix": "^6.0.6"
+    }
+}

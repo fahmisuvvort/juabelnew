@@ -1,0 +1,12 @@
+{
+    "name": "silehage/tripay",
+    "description": "Tripay payment gateway package for laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "silehage",
+            "email": "silehwage@gmail.com"
+        }
+    ],
+    "require": {}
+}

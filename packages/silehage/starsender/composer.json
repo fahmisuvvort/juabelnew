@@ -1,0 +1,12 @@
+{
+    "name": "silehage/starsender",
+    "description": "Starsender package for laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "silehage",
+            "email": "silehwage@gmail.com"
+        }
+    ],
+    "require": {}
+}
